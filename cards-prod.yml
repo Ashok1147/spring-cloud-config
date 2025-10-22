@@ -2,7 +2,7 @@ build:
   version: 3.0
 
 cards:
-  message: Welcome to Cards Microservice related to prod APIS
+  message: Welcome to Cards Microservice related to production APIS
   contactDetails:
     name: Ashok - Engineering Lead
     email: ashok@eazybank.com
