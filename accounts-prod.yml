@@ -2,7 +2,7 @@ build:
   version: 1.2.0
 
 accounts:
-  message: Welcome to EazyBank Accounts related to prod APIS
+  message: Welcome to EazyBank Accounts related to production APIS
   contactDetails:
     name: "Vaseem"
     email: "{cipher}2460a1f8929a77b5b4789c658b15506341ffd6db3f229369f97be7ecc801e3df9d414caa7ac277d37e3813622452bd0c"
