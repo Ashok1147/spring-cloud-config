@@ -2,7 +2,7 @@ build:
   version: 3.0
 
 loans:
-  message: Welcome to Loans Microservice related to prod APIS
+  message: Welcome to Loans Microservice related to production APIS
   contactDetails:
     name: Jeff Bezos - Architect
     email: jeff@eazybank.com
