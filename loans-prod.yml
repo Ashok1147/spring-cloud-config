@@ -1,0 +1,11 @@
+build:
+  version: 3.0
+
+loans:
+  message: Welcome to Loans Microservice related to prod APIS
+  contactDetails:
+    name: Jeff Bezos - Architect
+    email: jeff@eazybank.com
+  onCallSupport:
+    - +145 (76)-7890
+    - +145 (76)-7891

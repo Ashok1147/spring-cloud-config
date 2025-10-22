@@ -1,0 +1,11 @@
+build:
+  version: 1.2.0
+
+accounts:
+  message: Welcome to EazyBank Accounts related to prod APIS
+  contactDetails:
+    name: Vaseem - Product Owner
+    email: vaseem@eazybank.com
+  onCallSupport:
+    - (555)-456-7890
+    - (555)-456-7891

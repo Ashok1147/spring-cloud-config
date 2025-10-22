@@ -1,0 +1,11 @@
+build:
+  version: 2.0
+
+cards:
+  message: Welcome to Cards Microservice related to QA APIS
+  contactDetails:
+    name: John - QA Lead
+    email: john@eazybank.com
+  onCallSupport:
+    - +91-444-456-7880
+    - +91-444-456-7881

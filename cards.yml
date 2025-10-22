@@ -1,0 +1,10 @@
+build:
+  version: 1.0.0
+cards:
+  message: Welcome to EazyBank Cards Microservice
+  contactDetails:
+    name: Ashok Kumar
+    email: ashok@bank.com
+  onCallSupport:
+    - (1)-987-654-3210
+    - (1)-987-654-3211

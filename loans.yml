@@ -1,0 +1,11 @@
+build:
+  version: 1.0
+
+loans:
+  message: Welcome to Loans Microservice APIS
+  contactDetails:
+    name: Abraham Lincon - Lead
+    email: abraham.lincon@eazybank.com
+  onCallSupport:
+    - +45 (6)-7880
+    - +45 (6)-7881

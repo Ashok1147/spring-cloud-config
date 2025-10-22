@@ -1,0 +1,11 @@
+build:
+  version: 2.0
+
+loans:
+  message: Welcome to Loans Microservice related to QA APIS
+  contactDetails:
+    name: John Cena - QA Lead
+    email: john.cena@eazybank.com
+  onCallSupport:
+    - +145 (76)-7880
+    - +145 (76)-7881
