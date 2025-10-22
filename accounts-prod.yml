@@ -5,7 +5,7 @@ accounts:
   message: Welcome to EazyBank Accounts related to prod APIS
   contactDetails:
     name: "Vaseem - Product Owner"
-    email: {cipher}2460a1f8929a77b5b4789c658b15506341ffd6db3f229369f97be7ecc801e3df9d414caa7ac277d37e3813622452bd0c
+    email: "{cipher}2460a1f8929a77b5b4789c658b15506341ffd6db3f229369f97be7ecc801e3df9d414caa7ac277d37e3813622452bd0c"
   onCallSupport:
     - (555)-456-7890
     - (555)-456-7891
